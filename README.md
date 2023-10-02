@@ -5,6 +5,10 @@
 <a href="https://www.linkedin.com/in/Sejpal/">
 <img align="left" alt="Abhinav Sejpal" width="22px" src="https://raw.githubusercontent.com/bugwrangler/bugwrangler/fce8d151c992e7cd1400de4c95a9d7e639234cd6/assest/linkedin.svg" /> </a>
 
+## About Me
+
+I am a passionate Application Security Engineer with a strong background in securing web and mobile applications. My mission is to protect digital assets and ensure that software is developed with security in mind from the beginning.
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on DevSecOps Automation
@@ -14,6 +18,15 @@ Here are some ideas to get you started:
 - 💬 Ask me about Anything 
 - 😄 Pronouns: him/he
 - ⚡ Fun fact: I am half finished
+
+### Key Skills
+- Secure Code Review
+- Penetration Testing
+- Threat Modeling
+- DevSecOps
+- Security Architecture
+- Secure SDLC
+- OWASP Top Ten / ASVS / MSVS 
 
 [![Abhinav GitHub stats](https://github-readme-stats.vercel.app/api?username=AppSecCaptain&theme=dark)](https://github-readme-stats.vercel.app/api?username=AppSecCaptain&theme=dark)
 
