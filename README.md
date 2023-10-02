@@ -8,9 +8,9 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on DevSecOps Automation
-- 🌱 I’m currently learning Kubernetes
+- 🌱 I’m currently learning Kubernetes Security
 - 👯 I’m looking to collaborate on AppSec 
-- 🤔 I’m looking for help with Clouds native 
+- 🤔 I’m looking for help with Clouds native Security 
 - 💬 Ask me about Anything 
 - 😄 Pronouns: him/he
 - ⚡ Fun fact: I am half finished
