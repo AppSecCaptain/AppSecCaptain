@@ -1,6 +1,6 @@
 ### Hi there, thanks for visiting my profile 👋
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=AppSecCaptain)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=abhinavsejpal-mns)
 <a href="https://twitter.com/abhinavsejpal"> <img align="left" alt="Abhinav Sejpal | Twitter" width="22px" src="https://raw.githubusercontent.com/bugwrangler/bugwrangler/fce8d151c992e7cd1400de4c95a9d7e639234cd6/assest/twitter.svg" /></a>
 <a href="https://www.linkedin.com/in/Sejpal/">
 <img align="left" alt="Abhinav Sejpal" width="22px" src="https://raw.githubusercontent.com/bugwrangler/bugwrangler/fce8d151c992e7cd1400de4c95a9d7e639234cd6/assest/linkedin.svg" /> </a>
@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 - Secure SDLC
 - OWASP Top Ten / ASVS / MSVS 
 
-[![Abhinav GitHub stats](https://github-readme-stats.vercel.app/api?username=AppSecCaptain&theme=dark)](https://github-readme-stats.vercel.app/api?username=AppSecCaptain&theme=dark)
+[![Abhinav GitHub stats](https://github-readme-stats.vercel.app/api?username=abhinavsejpal-mns&theme=dark)](https://github-readme-stats.vercel.app/api?username=abhinavsejpal-mns&theme=dark)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AppSecCaptain&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=abhinavsejpal-mns&theme=dark)](https://git.io/streak-stats)
 
 If you like what I do and share my knowledge with the community to create a better world, maybe consider buying me a coffee...☕ 
 
