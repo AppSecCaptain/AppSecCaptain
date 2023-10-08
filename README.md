@@ -3,7 +3,7 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=abhinavsejpal-mns)
 <a href="https://twitter.com/abhinavsejpal"> <img align="left" alt="Abhinav Sejpal | Twitter" width="22px" src="https://raw.githubusercontent.com/bugwrangler/bugwrangler/fce8d151c992e7cd1400de4c95a9d7e639234cd6/assest/twitter.svg" /></a>
 <a href="https://www.linkedin.com/in/Sejpal/">
-<img align="left" alt="Abhinav Sejpal" width="22px" src="https://raw.githubusercontent.com/bugwrangler/bugwrangler/fce8d151c992e7cd1400de4c95a9d7e639234cd6/assest/linkedin.svg" /> </a>
+<img align="left" alt="Abhinav Sejpal" width="22px" src="https://raw.githubusercontent.com/abhinavsejpal-mns/abhinavsejpal-mns/fce8d151c992e7cd1400de4c95a9d7e639234cd6/assest/linkedin.svg" /> </a>
 
 ## About Me
 
